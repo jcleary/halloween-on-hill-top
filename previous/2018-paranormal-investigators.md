@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 2018 - Paranormal Investigators
-image: assets/images/pic01.jpg
-menus: previous
+image: assets/images/2018/main.jpg
+previous: true
+order: 4
 ---
