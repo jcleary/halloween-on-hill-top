@@ -1,7 +1,7 @@
 # site settings
 title: Halloween On Hill Top
 subtitle:
-email: youremailaddress@gmail.com
+email: team@halloweenonhilltop.uk
 description: A family-run Haloween scare house in Manchester, England
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.halloweenonhilltop.uk" # the base hostname & protocol for your site
@@ -12,6 +12,7 @@ state: Cheshire
 zip_code: SK8 7HN
 country: United Kingdom
 phone:
+messenger: HalloweenOnHillTop
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
