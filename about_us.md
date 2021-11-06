@@ -3,6 +3,7 @@ layout: post
 title: About Us
 image: assets/images/zombies-long.jpg
 nav-menu: true
+order: 3
 ---
 The Cleary family have been running spooky tours at Halloween for the past six years, from our home in Cheadle Hulme. We are delighted to say that our Halloween tour is back with a vengeance for 2021! This year’s tour is ‘Return of the Cult’...in the early 1960s a mysterious pattern of missing person reports emerged, centering in the Cheadle Hulme area. Police raided a vicarage that had supposedly stood empty for years. Investigators searching the building uncovered evidence of terrifying rituals and human sacrifice.  A cult, 'The Endless Divinity of Baphomet' had been operating undetected from the vicarage for months.  Realising that the police were about to expose them, the cult had fled. Sixty years on, come on a tour with us and let us show you what the cult left behind!!
 
