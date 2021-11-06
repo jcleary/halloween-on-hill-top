@@ -3,7 +3,7 @@ layout: post
 title: FAQs
 image: assets/images/zombies-long.jpg
 nav-menu: true
-order: 2
+order: 3
 ---
 
 #### How do I get tickets?
