@@ -50,6 +50,13 @@ img {
 			}
 		}
 
+		&.square-fit {
+			img {
+				aspect-ratio: 11/10;
+				object-fit: cover;
+			}
+		}
+
 		&.main {
 			display: block;
 			margin: (_size(element-margin) * 1.25) 0;
