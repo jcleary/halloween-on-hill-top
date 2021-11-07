@@ -7,12 +7,24 @@ order: 2
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Tickets</h3>
-		<p>That's it for another year!</p>
-        <p>If you want to be among the first to know when tickets are release next year, why not join our mailing list?</p>
+		<p>
+            We're all done for 2021, but if you want to be notified when tickets are about to be released, sign
+            up to our <a href="mailing-list.html">mailing list</a>.
+        </p>
+        <ul class="actions">
+            <li><a href="{{ site.donations-url }}" class="button special disabled">Get Tickets</a></li>
+        </ul>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Donations</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<p>
+            We are once again collecting for Cancer Research UK. If you would like to
+            make a donation, click the Donate button below.
+        </p>
+
+        <ul class="actions">
+            <li><a href="{{ site.donations-url }}" class="button special">Make a Donation</a></li>
+        </ul>
 	</div>
 </div>
 
