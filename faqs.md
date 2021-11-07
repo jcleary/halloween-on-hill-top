@@ -7,7 +7,8 @@ order: 3
 ---
 
 #### How do I get tickets?
-When tickets become available you will see a **link on the home page**. We 
+When tickets become available you will see a **link on 
+the <a href="tickets-and-donations.html">tickets and donations</a> page**. We 
 don't release tickets until about a week before Halloween so if you can't see 
 the link it's because we've not yet released the tickets
 <br/><br/>
