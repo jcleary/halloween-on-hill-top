@@ -24,6 +24,10 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		{{ content }}
+		{% if page.photo-path %}
+		    <h3>Photos</h3>
+			{% include photos.html photo-path=page.photo-path %}
+		{% endif %}
 	</div>
 </section>
 
