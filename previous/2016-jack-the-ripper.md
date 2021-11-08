@@ -4,6 +4,7 @@ title: 2016 - Jack The Ripper
 image: assets/images/2016-main.jpg
 previous: true
 order: 6
+photo-path: 'images/2016/'
 ---
 
 This was our first even Halloween scare experience, and whilst it may have lacked some 
