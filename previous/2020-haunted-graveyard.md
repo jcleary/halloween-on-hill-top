@@ -4,7 +4,7 @@ title: 2020 - The Haunted Graveyard
 image: assets/images/2020-main.jpg
 previous: true
 order: 2
-photo-path: "images/2020"
+photo-path: "images/2020/"
 ---
 
 Obviously Covid has stopped some of our scary plans by limiting what we can do. Because of this, unsurprisingly there won’t be a Halloween tour this year. However, we’re not going to let a pandemic spoil everything!
