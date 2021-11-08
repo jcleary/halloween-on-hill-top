@@ -2,6 +2,7 @@
 layout: post
 title: Tickets and Donations
 nav-menu: true
+image: assets/images/donations.jpg
 order: 2
 ---
 <div class="row">
