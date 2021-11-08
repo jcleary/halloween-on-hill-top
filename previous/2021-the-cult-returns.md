@@ -8,12 +8,4 @@ order: 1
 
 Article text would go here lorum ipsum
 
-<div class="box alt">
-	<div class="row 50% uniform">
-        {% for image in site.static_files %}
-            {% if image.path contains 'images/2021' %}
-                <div class="4u"><span class="image fit square-fit"><img src="{{ site.baseurl | append: image.path | resize: "800x800>" }}" alt="" /></span></div>
-            {% endif %}
-        {% endfor %}
-	</div>
-</div>
+{% include photos.html photo-path="images/2021" %}
