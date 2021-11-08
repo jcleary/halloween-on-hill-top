@@ -1,7 +1,7 @@
 <div class="box alt">
     <div class="row 50% uniform">
         {% for image in site.static_files %}
-            {% if image.path contains include.photo-path %}
+            {% if image.path contains include.photo-path and image.path contains '.jpg' %}
                 <div class="4u"><span class="image fit square-fit"><img src="{{ site.baseurl | append: image.path }}" alt="" /></span></div>
             {% endif %}
         {% endfor %}
