@@ -16,7 +16,7 @@ add it to <a href="https://www.facebook.com/HalloweenOnHillTop/posts/30349460501
 We'll keep the <a href="{{ site.donations-url }}">donations page</a> open for a few 
 more weeks just in case, but to date we have collected **just over £1,200** for Cancer Research UK 👏👏
 
-And remember to **get your name on our <a href="mailing-list.html">mailing list</a>** so we can let you
+And remember to **get your name on our <a href="{% link mailing-list.md %}">mailing list</a>** so we can let you
 know when tickets are made available.
 
 See y'all in 2022!

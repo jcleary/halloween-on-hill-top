@@ -10,7 +10,7 @@ order: 2
 		<h3>Tickets</h3>
 		<p>
             We're all done for 2021, but if you want to be notified when tickets are about to be released, sign
-            up to our <a href="mailing-list.html">mailing list</a>.
+            up to our <a href="{% link mailing-list.md %}">mailing list</a>.
         </p>
         <ul class="actions">
             <li><a href="{{ site.donations-url }}" class="button special disabled">Get Tickets</a></li>
