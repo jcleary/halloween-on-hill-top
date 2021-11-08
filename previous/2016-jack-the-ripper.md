@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2016 - Jack The Ripper
-image: assets/images/2016/main.jpg
+image: assets/images/2016-main.jpg
 previous: true
 order: 6
 ---
@@ -17,3 +17,5 @@ This tour was probably also our shortest tour, running at under two minutes. Gue
 guided along the passage way by JTR himself, who pointed out a partially dismember corpse
 through the window that had been set on a table. The tour then continued into the second
 half of the passage where the sounds of a victorian street could be heard.
+
+The tour culminated with 
