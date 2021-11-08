@@ -38,3 +38,4 @@ exclude:
 - CONTRIBUTING.md
 - README.md
 - resize-photos.sh
+- .idea
