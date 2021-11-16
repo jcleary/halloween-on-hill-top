@@ -20,7 +20,7 @@ order: 2
 		<h3>Donations</h3>
 		<p>
             We are once again collecting for Cancer Research UK. If you would like to
-            make a donation, click the button below.
+            make a donation, please click the button below.
         </p>
 
         <ul class="actions">
