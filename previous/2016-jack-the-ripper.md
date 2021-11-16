@@ -8,7 +8,7 @@ photo-path: 'images/2016/'
 ---
 
 This was our first ever Halloween scare experience, and whilst it may have lacked some 
-of the pazzaz of later years, it was still pretty scary! When we started planning, we
+of the pizazz of later years, it was still pretty scary! When we started planning, we
 realised that the side passageway of our house was all but built for Halloween; it's 
 dark, narrow, and pretty claustrophobic. On top of that, there is a window followed by a 
 door along the route - excellent for hiding in or showcasing ghoulish artifacts (as indeed
