@@ -48,7 +48,7 @@ order: 3
 	<dt>What age group is the experience suitable for?</dt>
 	<dd>
 		<p>
-            <b>11+ years</b>. Younger guests are welcome but may find it too frightening.
+            <b>11+ years</b>. Younger guests can take part, but may find it too frightening.
         </p>
 	</dd>
 	<dt>How long is the experience?</dt>
