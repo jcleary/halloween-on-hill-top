@@ -30,6 +30,6 @@ nav-menu: true
     If you are looking for tickets, head over to our mailing
 </blockquote>
 
-That's right folks, we're running our scare event again this year. If you want tickets, then please add you
-name to our <a href="{% link mailing-list.md %}">mailing list</a>** and we will let you as soon as the they
-are available.
+That's right folks, we're running our scare event again this year. If you want tickets, then please **add you
+name to our <a href="{% link mailing-list.md %}">mailing list</a>** and we will let you as soon as they are
+available.
