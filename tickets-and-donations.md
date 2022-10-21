@@ -9,10 +9,16 @@ order: 2
 	<div class="6u 12u$(small)">
 		<h3>Tickets</h3>
 
-        Join our mailing list and get notified when tickets will become available. If
-        you have ordered tickets in the past through Eventbrite, then you'll already be
-        on the list.
+        Ticket information will be posted here on <strong>Saturday 22nd Oct at 7pm</strong> - so set your alarm
+        as we sell out fast!
 
+        <br/>
+        <br/>
+
+        If you join our mailing list below, we'll send the ticket details directly to your inbox!
+
+        <br/>
+        <br/>
         <div style="text-align: left" class="sender-form-field" data-sender-form-id="kvoke3qiex7d5d2hjnj"></div>
 
         <script>
