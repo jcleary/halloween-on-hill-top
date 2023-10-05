@@ -3,7 +3,7 @@ layout: post
 title: 2020 - The Haunted Graveyard
 image: assets/images/2020-main.jpg
 previous: true
-order: 2
+order: 3
 photo-path: "images/2020/"
 ---
 

@@ -3,7 +3,7 @@ layout: post
 title: 2016 - Jack The Ripper
 image: assets/images/2016-main.jpg
 previous: true
-order: 6
+order: 7
 photo-path: 'images/2016/'
 ---
 

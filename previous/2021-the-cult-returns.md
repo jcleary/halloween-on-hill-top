@@ -3,7 +3,7 @@ layout: post
 title: 2021 - The Cult Returns
 image: assets/images/2021-main.jpg
 previous: true
-order: 1
+order: 2
 photo-path: "images/2021/"
 ---
 Many ideas were thrown around this year, including, but not limited to "Ghost Clowns". However we finally settled on 
