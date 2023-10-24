@@ -1,10 +1,9 @@
-version: '3'
+# no version needed since 2020
 
 services:
   jekyll:
-    image: jekyll/jekyll:4.2.0
-    command: jekyll serve --watch --incremental
-    ports:
-      - 4000:4000
+    image: bretfisher/jekyll-serve
     volumes:
-      - .:/srv/jekyll:cached
+      - .:/site
+    ports:
+      - '4000:4000'
