@@ -11,16 +11,16 @@ nav-menu: true
 ---
 
 
-🍁🍂 We wanted to thank you all so much for all your support, and all your donations, over the past few years. We've done six spooky tours (and one spine-chilling graveyard!) since 2016.
-
-For Halloween 2023 we are planning to decorate the outside of our house in [aid of Cancer Research]({{ site.donations-url }}). I feel a spooky graveyard coming on... The decorations will be up on:
+🍁🍂 For Halloween 2023 we are decorating the outside of 21 Hill Top in [aid of Cancer Research]({{ site.donations-url }}). I feel a spooky graveyard coming on... The decorations will be up on:
 - Sunday 29th 5-8pm
 - Monday 30th 5-8pm
 - Tuesday 31st October (Halloween!) 5-8pm
 
 Hope you can come and take a look!
 
-As you know, our family, with the help of some fab friends, put on a 'spooky tour' every Halloween in aid of Cancer Research UK. Sadly, it looks like 2022's 'Facility 21' tour was our last. The vast majority of our amazing scare team (of twenty!) have just gone off to Monster University!! And we can't run a terrifying tour without our actors!
+As you know, our family, with the help of some fab friends, usually put on a 'spooky tour' every Halloween in [aid of Cancer Research UK]({{ site.donations-url }}). Sadly, it looks like 2022's 'Facility 21' tour was our last. The vast majority of our amazing scare team (of twenty!) have just gone off to Monster University!! And we can't run a terrifying tour without our actors!
 
-Thanks so much,
+We wanted to thank you all so much for all your support, and all your donations, over the past few years. We’ve done six spooky tours (and one spine-chilling graveyard!) since 2016.
+
+Thanks so much again,<br>
 Sally, John and Team Halloween! Xxx 🍂🍁🍂
