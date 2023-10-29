@@ -16,6 +16,8 @@ nav-menu: true
 - Monday 30th 5-8pm
 - Tuesday 31st October (Halloween!) 5-8pm
 
+@ 21 Hill Top Avenue, Cheadle Hulme, SK8 7HN
+
 Hope you can come and take a look!
 
 As you know, our family, with the help of some fab friends, usually put on a 'spooky tour' every Halloween in [aid of Cancer Research UK]({{ site.donations-url }}). Sadly, it looks like 2022's 'Facility 21' tour was our last. The vast majority of our amazing scare team (of twenty!) have just gone off to Monster University!! And we can't run a terrifying tour without our actors!
