@@ -3,7 +3,7 @@ layout: post
 title: 2022 - Facility 21
 image: assets/images/2022-main.jpg
 previous: true
-order: 1
+order: 4
 photo-path: "images/2022/"
 ---
 <blockquote>

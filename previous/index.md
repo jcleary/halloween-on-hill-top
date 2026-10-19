@@ -7,7 +7,7 @@ order: 5
 <div id="main">
 {% assign tiles = site.html_pages | where_exp: "item", "item.previous == true" | sort:"order" %}
 <section id="one" class="tiles">
-  {% for tile in tiles limit:site.tiles-count %}
+  {% for tile in tiles %}
   <article>
     <span class="image">
       <img src="/{{ tile.image }}" alt="{{ tile.title }}" />
