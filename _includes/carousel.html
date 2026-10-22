@@ -1,0 +1,14 @@
+<div class="carousel" role="region" aria-roledescription="carousel" aria-label="{{ include.label | default: 'Photos from previous years' }}">
+	<div class="carousel-track">
+		{% for slide in include.slides %}
+		<figure class="carousel-slide{% if forloop.first %} is-active{% endif %}" role="group" aria-roledescription="slide" aria-label="{{ forloop.index }} of {{ forloop.length }}"{% unless forloop.first %} aria-hidden="true"{% endunless %}>
+			<img src="{{ site.baseurl }}/{{ slide.image }}" alt="{{ slide.caption }}"{% unless forloop.first %} loading="lazy"{% endunless %} />
+			<figcaption>{{ slide.caption }}</figcaption>
+		</figure>
+		{% endfor %}
+	</div>
+	<button type="button" class="carousel-btn carousel-prev" aria-label="Previous photo">&#8249;</button>
+	<button type="button" class="carousel-btn carousel-next" aria-label="Next photo">&#8250;</button>
+	<div class="carousel-dots"></div>
+</div>
+<script src="{{ site.baseurl }}/assets/js/carousel.js"></script>
