@@ -9,9 +9,9 @@ order: 5
 <section id="one" class="tiles">
   {% for tile in tiles %}
   <article>
-    <span class="image">
+    {% if tile.image %}<span class="image">
       <img src="/{{ tile.image }}" alt="{{ tile.title }}" />
-    </span>
+    </span>{% endif %}
     <header class="major">
       <h3><a href="{{ tile.url  | relative_url }}" class="link">{{ tile.title }}</a></h3>
       <p>{{ tile.description }}</p>
