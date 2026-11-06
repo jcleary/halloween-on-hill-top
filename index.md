@@ -11,13 +11,7 @@ nav-menu: true
 ---
 
 
-🍁🍂 For Halloween 2026 we are decorating the outside of 21 Hill Top in [aid of Cancer Research]({{ site.donations-url }}). I feel a ghost-filled graveyard coming on… Our spoooooky decorations will be up on:
-- Friday 30th October 5-7pm (for those who want a quieter visit)
-- Saturday 31st October (Halloween!) 5-8pm
-
-@ 21 Hill Top Avenue, Cheadle Hulme, SK8 7HN
-
-Hope you can come and take a look!
+🍁🍂 For Halloween 2026 we decorated the outside of 21 Hill Top in [aid of Cancer Research]({{ site.donations-url }}). If you missed it (or even if you didn't) you can catch the photos on our [previous years](/previous/) page.
 
 <ul class="actions">
     <li><a href="{{ site.donations-url }}" class="button special">make a donation</a></li>
