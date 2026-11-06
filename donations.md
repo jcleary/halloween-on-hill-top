@@ -4,6 +4,8 @@ title: Donations
 nav-menu: true
 order: 2
 carousel:
+  - image: assets/images/2026/2026-01.jpg
+    caption: "2026 - Ghost Bride and Groom"
   - image: assets/images/2025-main.jpg
     caption: "2025 - Ghost Clowns"
   - image: assets/images/2024/518315680_10161685920046219_7140813975105421038_n.jpg
